@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // Linking UI to program code
-        //Declare variable here
+        // Declare variable here
         // val = value (constant), var = variable
         val imageViewQR: ImageView = findViewById(R.id.imageViewQR)
         val textViewName: TextView = findViewById(R.id.textViewName)
